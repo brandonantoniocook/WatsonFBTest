@@ -2,5 +2,4 @@
 
 
 ### Links
-
-https://github.com/IBM/slack-watson-bot
+https://developer.ibm.com/recipes/tutorials/how-to-create-a-chatbot-in-facebook-messenger/
